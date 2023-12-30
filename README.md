@@ -1,1 +1,0 @@
-# Grape-Leaf-Disease-Detection-using-CNN
